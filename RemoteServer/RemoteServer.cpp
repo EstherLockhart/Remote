@@ -18,7 +18,7 @@ using namespace std;
 
 int main()
 {
-    int nRetCode = 0;
+    int nRetCode = 0; 
 
     HMODULE hModule = ::GetModuleHandle(nullptr);
 
