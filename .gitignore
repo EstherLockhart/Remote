@@ -1,0 +1,7 @@
+#文件夹
+/.vs
+/RemoteServer/bin
+/RemoteClient/bin
+
+#文件
+*.user
